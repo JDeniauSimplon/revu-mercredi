@@ -44,7 +44,7 @@
 
 // Exercice #6
 
-const adress: string = "201"
+const adress: string = "150"
 const zipCode: number = 4000
 
 const adressFull: String = adress + " " + zipCode;
